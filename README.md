@@ -1,2 +1,2 @@
 # java_backgroundmusic
-Adding a background sound in a java program.
+Adding background music in a java program.
